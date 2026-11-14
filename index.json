@@ -1,9 +1,9 @@
 {
   "format": "inoji-portal-master-index",
   "format_version": 1,
-  "master_version": 11,
+  "master_version": 12,
   "generated_on": "2026-11-14",
-  "file": "master-11.json",
-  "bytes": 565347,
-  "content_sha256": "b3291c0dcfd2eb2b059c95b15bbab1958594ef5f1d01b19e366d823ef681c2da"
+  "file": "master-12.json",
+  "bytes": 569878,
+  "content_sha256": "73da878f5a72862aab05266d611856bd61426d540ec4a3080ceed9802700ab60"
 }
