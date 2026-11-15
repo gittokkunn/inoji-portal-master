@@ -1,9 +1,12 @@
 {
   "format": "inoji-portal-master-index",
   "format_version": 1,
-  "master_version": 13,
+  "master_version": 15,
   "generated_on": "2026-11-15",
-  "file": "master-13.json",
-  "bytes": 570086,
-  "content_sha256": "8a9a1d65ef9e99033a9ab820cb744f4099380f96eb03efbbd607c0cc548fe63f"
+  "file": "master-15.json",
+  "bytes": 578065,
+  "content_sha256": "7bb1dd04e8401d0b0e5642b84a907756834ab12456a25812088da0cf5f2270ac",
+  "changes": [
+    {"version":15,"since":13,"date":"2026-11-15","summary":{"new_campaigns":0,"changed_campaigns":0,"removed_campaigns":0,"new_releases":0,"new_songs":0,"member_changes":0},"items":{"new_campaigns":[],"changed_campaigns":[],"removed_campaigns":[],"new_releases":[],"new_songs":[],"member_changes":[]}}
+  ]
 }
