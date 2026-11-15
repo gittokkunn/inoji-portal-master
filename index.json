@@ -1,12 +1,13 @@
 {
   "format": "inoji-portal-master-index",
   "format_version": 1,
-  "master_version": 15,
-  "generated_on": "2026-11-15",
-  "file": "master-15.json",
-  "bytes": 578065,
-  "content_sha256": "7bb1dd04e8401d0b0e5642b84a907756834ab12456a25812088da0cf5f2270ac",
+  "master_version": 18,
+  "generated_on": "2026-11-16",
+  "file": "master-18.json",
+  "bytes": 913147,
+  "content_sha256": "282e1f85d35cfb5fc90f184678d007c6e5133d9c50765a16b86091fba8b2bdb5",
   "changes": [
+    {"version":18,"since":15,"date":"2026-11-16","summary":{"new_campaigns":81,"changed_campaigns":0,"removed_campaigns":0,"new_releases":159,"new_songs":319,"member_changes":32},"items":{"new_campaigns":[{"id":"cp_sched_ini_4551","title":"Thank YOU From INI ～5th Anniversary Fan Meeting～"},{"id":"cp_sched_jo1_6466","title":"LAPOSTA 2027"},{"id":"cp_sched_jo1_6465","title":"LAPOSTA 2027"},{"id":"cp_sched_jo1_6464","title":"LAPOSTA 2027"},{"id":"cp_sched_jo1_6463","title":"LAPOSTA 2027"},{"id":"cp_sched_ini_4510","title":"2026 MUSIC BANK GLOBAL FESTIVAL IN JAPAN"},{"id":"cp_sched_ko1keyz_199","title":"SAPPORO COLLECTION 2026 AUTUMN/WINTER"},{"id":"cp_sched_ini_4383","title":"15th Anniversary テレビ朝日ドリームフェスティバル2026"},{"id":"cp_sched_ko1keyz_185","title":"2026 MAMA AWARDS"},{"id":"cp_sched_jo1_6373","title":"15th Anniversary テレビ朝日ドリームフェスティバル2026"}],"changed_campaigns":[],"removed_campaigns":[],"new_releases":[{"id":"r_jo1_157","title":"AAO"},{"id":"r_ini_149","title":"My Way / HIROTO (INI)"},{"id":"r_ko1keyz_1","title":"KO1KEYZ"},{"id":"r_jo1_152","title":"ANIMAL"},{"id":"r_jo1_164","title":"GOLDEN STAR / REN(JO1)"},{"id":"r_ini_145","title":"『ANTHEM』"},{"id":"r_jo1_163","title":"IGNITE"},{"id":"r_ini_144","title":"存在証明 / 尾崎匠海 (INI)"},{"id":"r_ini_143","title":"DEEP BLUE HOURS / 池﨑理人 (INI)"},{"id":"r_ini_142","title":"DIGITAL RELEASE『Rendezvous』"}],"new_songs":[{"id":"s_jo1_89127fe2","title":"MATCHA"},{"id":"s_jo1_64b3020d","title":"PEKO PEKO"},{"id":"s_jo1_5406158d","title":"There Can Be Nothing Better"},{"id":"s_ini_7ad9d77a","title":"My Way"},{"id":"s_ko1keyz_ec144bf8","title":"Key of Story"},{"id":"s_ko1keyz_c718e157","title":"新世界(SHINSEKAI) -KO1KEYZ ver.– (Korean ver.) *CD Only"},{"id":"s_ko1keyz_8a5de6b6","title":"新世界(SHINSEKAI) -KO1KEYZ ver.–"},{"id":"s_ko1keyz_49740ece","title":"Celebrate *CD Only"},{"id":"s_ko1keyz_23e91c52","title":"BLACK ANGEL -KO1KEYZ ver.–"},{"id":"s_ko1keyz_10a7f9dc","title":"KO1KEYZ (Korean ver.)"}],"member_changes":[{"id":"m_jo1_kawashiri-ren","name":"川尻 蓮","what":"新しいメンバー"},{"id":"m_jo1_kawanishi-takumi","name":"川西 拓実","what":"新しいメンバー"},{"id":"m_jo1_kimata-syoya","name":"木全 翔也","what":"新しいメンバー"},{"id":"m_jo1_kinjo-sukai","name":"金城 碧海","what":"新しいメンバー"},{"id":"m_jo1_kono-junki","name":"河野 純喜","what":"新しいメンバー"},{"id":"m_jo1_sato-keigo","name":"佐藤 景瑚","what":"新しいメンバー"},{"id":"m_jo1_shiroiwa-ruki","name":"白岩 瑠姫","what":"新しいメンバー"},{"id":"m_jo1_mamehara-issei","name":"豆原 一成","what":"新しいメンバー"},{"id":"m_jo1_yonashiro-sho","name":"與那城 奨","what":"新しいメンバー"},{"id":"m_ini_ikezaki-rihito","name":"池﨑 理人","what":"新しいメンバー"}]}},
     {"version":15,"since":13,"date":"2026-11-15","summary":{"new_campaigns":0,"changed_campaigns":0,"removed_campaigns":0,"new_releases":0,"new_songs":0,"member_changes":0},"items":{"new_campaigns":[],"changed_campaigns":[],"removed_campaigns":[],"new_releases":[],"new_songs":[],"member_changes":[]}}
   ]
 }
